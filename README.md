@@ -18,22 +18,22 @@ Se requerira tener instalado git en la computadora para el caso de linux ejecuta
 ## Running the tests
 
 Los siguientes comandos sirven para la subida de archivos y commits para
-    * [GitHub] - 
-        git init
-        git add README.md
-        git commit -m "first commit"
-        git remote rename origin github-origin
-        git remote add origin git@github.com:Hipsy-luu/video-club.git
-        git push -u origin master
-    * [GitLab] - (Repositorio Existente)
-        git remote rename origin gitlab-origin
-        git remote add origin git@gitlab.com:Hipsy-luu/video-club.git
-        git push -u origin --all
-        git push -u origin --tags
-    * [Bitbucket] - (Repositorio Existente)
-        git remote rename origin bitbucket-origin
-        git remote add origin git@bitbucket.org:hipsy/video-club.git
-        git push -u origin master
+    - [GitHub] - 
+        > git init
+        > git add README.md
+        > git commit -m "first commit"
+        > git remote rename origin github-origin
+        > git remote add origin git@github.com:Bunyzilla/video-club.git
+        > git push -u origin master
+    - [GitLab] - (Repositorio Existente)
+        > git remote rename origin gitlab-origin
+        > git remote add origin git@gitlab.com:Bunyzilla/video-club.git
+        > git push -u origin --all
+        > git push -u origin --tags
+    - [Bitbucket] - (Repositorio Existente)
+        > git remote rename origin bitbucket-origin
+        > git remote add origin git@bitbucket.org:Bunyzilla/video-club.git
+        > git push -u origin master
 
 
 
